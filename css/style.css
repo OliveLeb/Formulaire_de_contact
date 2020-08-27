@@ -35,3 +35,38 @@ h2 {
   padding: 40px;
   border-radius: 10px;
 }
+
+.blue {
+  color: #0069d6;
+}
+
+.form-control {
+  height: 50px;
+  font-size: 18px;
+}
+
+.comments {
+  font-style: italic;
+  font-size: 18px;
+  height: 25px;
+}
+
+#contact-form input[type='submit'] {
+  margin: 40px auto 0;
+  display: block;
+}
+
+.btn {
+  border: 1px solid #ddd;
+  color: #fff;
+  width: 100%;
+  text-transform: uppercase;
+  padding: 18px;
+}
+
+.thank-you {
+  text-align: center;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 22px;
+}
